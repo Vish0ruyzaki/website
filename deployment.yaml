@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vish0ruyzaki/project2:latest
+        image: vish0ryuzaki/project2:latest
         ports:
         - containerPort: 80
