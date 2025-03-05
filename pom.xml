@@ -35,6 +35,11 @@
                     <to>
                         <image>my-app:latest</image>
                     </to>
+                    <container>
+                        <ports>
+                            <port>85</port>
+                        </ports>
+                    </container>
                 </configuration>
             </plugin>
         </plugins>
